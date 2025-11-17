@@ -86,6 +86,4 @@ You must run both servers (frontend and backend) at the same time for the full a
 
 ---
 
-### Dashboard
 
-<img width="1919" alt="Dashboard" src="https://github.com/u
